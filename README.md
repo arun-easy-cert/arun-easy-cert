@@ -1,16 +1,127 @@
-## Hi there 👋
 
-<!--
-**arun-easy-cert/arun-easy-cert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### Hi 👋 I am Arun 
 
-Here are some ideas to get you started:
+* 💻 I work as a Front end Developer
+* 🌏 I’m from Kochi ,India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-r1147&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ------------------------------------------------------------------------
+
+<a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
+">Skills</a>
+</br>
+ ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/TAILWINDCSS-lightblue.svg?style=for-the-badge&logo=tailwindCss&logoColor=lightblue?) ![SCSS](https://img.shields.io/badge/scss-%23B7178C.svg?style=for-the-badge&logo=scss&logoColor=white)  ![SS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Primereact](https://img.shields.io/badge/primereact-%2320232a.svg?style=for-the-badge&logo=primereact&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white)  ![Primeng](https://img.shields.io/badge/primeng-%2320232a.svg?style=for-the-badge&logo=primeng&logoColor=%2361DAFB)
+![Angular Material](https://img.shields.io/badge/materialUi-%23007ACC.svg?style=for-the-badge&logo=materialui&logoColor=%2361DAFB)  ![FIGMA](https://img.shields.io/badge/figma-%23E23237.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS code](https://img.shields.io/badge/VScode-%23007ACC.svg?style=for-the-badge&logo=vscode&logoColor=%2361DAFB)  ![PROCREATE](https://img.shields.io/badge/procreate-%23DD0031.svg?style=for-the-badge&logo=procreate&logoColor=white) 
+<br/>
+
+ ------------------------------------------------------------------------
+
+#### 🌱 I’m currently learning these...
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)   
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+
+ ------------------------------------------------------------------------
+
+### 📫 How to reach me: ...
+<div >
+ <a href="mailto:arunraju9837@gmail.com?">
+ <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/arun-raju-05374a1b7" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+ <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+  <a href="https://www.github/arun-r1147" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+ ------------------------------------------------------------------------
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/arun-r1147"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-r1147&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/arun-r1147" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-r1147&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+<h2 align="center" border="none">
+  Hi, I'm Arun
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20tech;5+%20years%20of%20experience%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+
+------------------------------------------------------------------------
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arun-r1147&label=Profile%20views&color=FF6C37&style=flat" />
+</p>
+
+* 💻 I work as a Front end Developer
+* 🌏 I’m from Kochi, India
+
+ ------------------------------------------------------------------------
+
+### 🎓 Skills
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/TAILWINDCSS-lightblue.svg?style=for-the-badge&logo=tailwindCss&logoColor=lightblue?
+) ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/figma-%23E23237.svg?style=for-the-badge&logo=figma&logoColor=white) ![PROCREATE](https://img.shields.io/badge/procreate-%23DD0031.svg?style=for-the-badge&logo=procreate&logoColor=white) ![Primereact](https://img.shields.io/badge/primereact-%2320232a.svg?style=for-the-badge&logo=primereact&logoColor=%2361DAFB)  ![Angular Material](https://img.shields.io/badge/materialUI-%23007ACC.svg?style=for-the-badge&logo=angularmaterial&logoColor=white)   ![PrimeNg](https://img.shields.io/badge/primeng-%2320232a.svg?style=for-the-badge&logo=primeng&logoColor=%2361DAFB)
+</br>
+
+ ------------------------------------------------------------------------
+ 
+
+### 🌱 I’m currently learning these...
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+
+ ------------------------------------------------------------------------
+
+### 📫 How to reach me: ...
+<div >
+ <a href="mailto:arunraju9837@gmail.com?">
+ <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/arun-raju-05374a1b7" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+ <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+  <a href="https://github.com/arun-r1147" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+ ------------------------------------------------------------------------
+
+### ⭐️ My GitHub Stats
+
+<a href="https://github.com/arun-r1147"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-r1147&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="arun"/></a>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px alt="arun"/></picture>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/arun-r1147">
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arun-r1147&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arun-r1147&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+</a>
+</p>
+<!-- theme:gotham,algolia,react-dark -->
+
+ ------------------------------------------------------------------------
+
+ ### 📈 Activity Graph
+ 
+ [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arun-r1147&theme=react-dark&hide_border=true)](https://github.com/arun-r1147)
+
+
+
+
