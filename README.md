@@ -3,7 +3,7 @@
 
 * 💻 I work as a Front end Developer
 * 🌏 I’m from Kochi ,India
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-r1147&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-easy-cert&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
 
  ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@
  <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-  <a href="https://www.github/arun-r1147" target="_blank" rel="noreferrer">
+  <a href="https://www.github/arun-easy-cert" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
@@ -45,9 +45,9 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/arun-r1147"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-r1147&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/arun-easy-cert"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-easy-cert&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/arun-r1147" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-r1147&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/arun-easy-cert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-easy-cert&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <h2 align="center" border="none">
   Hi, I'm Arun
@@ -61,7 +61,7 @@
 ------------------------------------------------------------------------
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arun-r1147&label=Profile%20views&color=FF6C37&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=arun-easy-cert&label=Profile%20views&color=FF6C37&style=flat" />
 </p>
 
 * 💻 I work as a Front end Developer
@@ -94,7 +94,7 @@
  <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-  <a href="https://github.com/arun-r1147" target="_blank" rel="noreferrer">
+  <a href="https://github.com/arun-easy-cert" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
@@ -103,15 +103,15 @@
 
 ### ⭐️ My GitHub Stats
 
-<a href="https://github.com/arun-r1147"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-r1147&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="arun"/></a>
+<a href="https://github.com/arun-easy-cert"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-easy-cert&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="arun"/></a>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px alt="arun"/></picture>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/arun-r1147">
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arun-r1147&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arun-r1147&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+<a href="https://github.com/arun-easy-cert">
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arun-easy-cert&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arun-easy-cert&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
 </a>
 </p>
 <!-- theme:gotham,algolia,react-dark -->
@@ -120,7 +120,7 @@
 
  ### 📈 Activity Graph
  
- [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arun-r1147&theme=react-dark&hide_border=true)](https://github.com/arun-r1147)
+ [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arun-easy-cert&theme=react-dark&hide_border=true)](https://github.com/arun-easy-cert)
 
 
 
